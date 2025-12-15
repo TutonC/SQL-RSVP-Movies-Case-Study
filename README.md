@@ -49,4 +49,32 @@ The analysis uses a relational IMDb dataset with the following tables:
 
 ---
 
-## 📁 Repository Structure
+
+## 📄 Files Included
+- **SQL RSVP Movies Case Study.sql**  
+  Contains all SQL queries answering the business questions step-by-step.
+
+- **Executive Summary.pdf**  
+  Summarizes key insights and strategic recommendations for stakeholders.
+
+---
+
+## 🚀 How to Run the Project
+1. Load the IMDb dataset into your SQL database  
+2. Open and execute queries from the `.sql` file sequentially  
+3. Refer to the Executive Summary for business interpretation  
+
+---
+
+## 🧠 Skills Demonstrated
+- SQL data analysis and optimization  
+- Business-focused analytical thinking  
+- Use of window functions for ranking and trend analysis  
+- Translating data insights into actionable recommendations  
+
+---
+
+## 👤 Author
+**Tuton Chakraborty**  
+Data Analytics | SQL | Python | Salesforce | Power BI
+
